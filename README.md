@@ -1,6 +1,3 @@
 # Emoji-Face-Emotion-Recognition 😊
 new repo
-
-
-Uploading 😊 Emoji Face Emotion Recognition 😊 2025-02-26 17-56-10.mp4…
-
+![Picture2](https://github.com/user-attachments/assets/214825b7-faba-4882-80a1-6d6ce5037ff1)
